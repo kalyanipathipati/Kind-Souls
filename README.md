@@ -29,10 +29,5 @@
 
 If you'd like to contribute new features or improve the UI/UX, feel free to fork this repository and submit a pull request. Kindness is contagious! 💫
 
-## 📷 Screenshot
-
-> (You can add a screenshot of your website here)
-
----
 
 Made with ❤️ by [Kalyani Pathipati](https://github.com/kalyanipathipati)
