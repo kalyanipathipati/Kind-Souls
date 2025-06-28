@@ -12,7 +12,7 @@
 
 ## 🔧 Tech Stack
 
-- 💻 **Frontend**: HTML, CSS
+- 💻 **Frontend**: HTML, CSS, JavaScript
 - 🐘 **Backend**: PHP
 - 🛢️ **Database**: MySQL (via XAMPP)
 - ⚙️ **Environment**: XAMPP Local Server
